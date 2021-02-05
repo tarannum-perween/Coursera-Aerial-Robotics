@@ -1,5 +1,5 @@
 # Coursera-Aerial-Robotics
-This repository includes all programming assignments which I solved during Coursera's Aerial Robotics course.
+This repository contains programming assignments which I solved during Coursera's Aerial Robotics course.
 
 # Course Syllabus
 
